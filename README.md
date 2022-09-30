@@ -16,7 +16,7 @@
 
 <div> 
   <a href = "mailto:ell.009@hotmail.com"><img src="https://img.shields.io/badge/HOTMAIL-%20-brightgreen" target="_blank"></a>
-  <a href="www.linkedin.com/in/oewertonlopes" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%20-blue" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/oewertonlopes" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%20-blue" target="_blank"></a> 
  
   ![Snake animation](https://github.com/oewertonlopes/oewertonlopes/blob/output/github-contribution-grid-snake.svg)
 
